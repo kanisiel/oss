@@ -1,4 +1,8 @@
 hello world
 i'm computer
 add in new Branch
+<<<<<<< HEAD
 i'm master branch
+=======
+i'm new Branch
+>>>>>>> newB
